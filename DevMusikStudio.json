@@ -1,7 +1,7 @@
 [
     //Suara Tokek
     {
-      "mode" : "3",
+      "mode" : "2",
       "apps" : "Suara Tokek",
       "sdk_key" : "",
       "banneradmob" : "ca-app-pub-1237974949249895/7202863673",
