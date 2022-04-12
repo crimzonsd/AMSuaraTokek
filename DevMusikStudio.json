@@ -1,7 +1,7 @@
 [
     //Suara Tokek
     {
-      "mode" : "1",
+      "mode" : "3",
       "apps" : "Suara Tokek",
       "sdk_key" : "",
       "banneradmob" : "ca-app-pub-1237974949249895/7202863673",
@@ -11,7 +11,7 @@
     },
     //Suara kent
     {
-      "mode" : "1",
+      "mode" : "3",
       "apps" : "Suara Kentut Prank",
       "sdk_key" : "",
       "banneradmob" : "ca-app-pub-1237974949249895/7154476804",
