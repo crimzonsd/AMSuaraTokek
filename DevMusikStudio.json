@@ -3,10 +3,20 @@
     {
       "mode" : "1",
       "apps" : "Suara Tokek",
-      "sdk_key" : "8dT05HPb-ZhQc-5aW8-tbbOUqgZoMxv1teJ05FhEOs7KIfB4lsQy2aBoOZ8hHwwhW7-u5S79IS1OU4bM6G60ML",
-      "banneradmob" : "ca-app-pub-3212738706492790/6113697308",
-      "openadmob" : "ca-app-pub-3940256099942544/3419835294",
-      "bannerapplovin" : "bc31017529ac934b",
-      "interapplovin" : "dd8d6711f7a05516" 
+      "sdk_key" : "",
+      "banneradmob" : "ca-app-pub-1237974949249895/7202863673",
+      "openadmob" : "ca-app-pub-1237974949249895/1546926902",
+      "bannerapplovin" : "",
+      "interapplovin" : "" 
+    }
+    //Suara kent
+    {
+      "mode" : "1",
+      "apps" : "Suara Kentut Prank",
+      "sdk_key" : "",
+      "banneradmob" : "ca-app-pub-1237974949249895/7154476804",
+      "openadmob" : "ca-app-pub-1237974949249895/5649823449",
+      "bannerapplovin" : "",
+      "interapplovin" : "" 
     }
 ]
