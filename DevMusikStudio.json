@@ -3,12 +3,14 @@
     {
       "mode" : "3",
       "apps" : "Suara Tokek",
-      "gameId" : "4704317",
+      "gameId" : "4704317",       
       "sdk_key" : "",
       "banneradmob" : "ca-app-pub-1237974949249895/7202863673",
       "openadmob" : "ca-app-pub-1237974949249895/1546926902",
       "bannerapplovin" : "",
-      "interapplovin" : "" 
+      "interapplovin" : "",
+      "interUnity" : "Interstitial_Android",
+      "bannerUnity" : "Banner_Android",   
     },
     //Suara kent
     {
