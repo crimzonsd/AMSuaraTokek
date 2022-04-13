@@ -1,11 +1,6 @@
 [
-    //mode 1 : admob only
-    //mode 2 : admob appl
-    //mode 3 : appl
-    //mode 4 : unityads
-    //mode 5 : no ads
+
     {
-      //Suara Tokek
       "mode" : "4",
       "apps" : "Suara Tokek",
       "gameId" : "4704317",       
@@ -17,8 +12,8 @@
       "interUnity" : "Interstitial_Android",
       "bannerUnity" : "Banner_Android"   
     },
+    
     {
-      //Suara kent
       "mode" : "1",
       "apps" : "Suara Kentut Prank",
       "sdk_key" : "",
