@@ -1,4 +1,10 @@
 [
+    //mode 1 : admob only
+    //mode 2 : admob appl
+    //mode 3 : appl
+    //mode 4 : unityads
+    //mode 5 : no ads
+    
     //Suara Tokek
     {
       "mode" : "4",
