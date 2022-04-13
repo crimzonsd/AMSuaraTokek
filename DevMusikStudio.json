@@ -20,6 +20,8 @@
       "banneradmob" : "ca-app-pub-1237974949249895/7154476804",
       "openadmob" : "ca-app-pub-1237974949249895/5649823449",
       "bannerapplovin" : "",
-      "interapplovin" : "" 
+      "interapplovin" : "",
+      "interUnity" : "Interstitial_Android",
+      "bannerUnity" : "Banner_Android"
     }
 ]
