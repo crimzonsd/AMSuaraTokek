@@ -1,7 +1,7 @@
 [
     //Suara Tokek
     {
-      "mode" : "3",
+      "mode" : "2",
       "apps" : "Suara Tokek",
       "gameId" : "4704317",       
       "sdk_key" : "",
