@@ -3,9 +3,10 @@
     //mode 1 : admob
     //mode 2 : admob, applo inter
     //mode 3 : applo
-    //mode 4 : no ads
+    //mode 4 : unity
+    //mode 5 : no ads
     {
-      "mode" : "4",
+      "mode" : "5",
       "apps" : "Rooster Sounds",      
       "sdk_key" : "8dT05HPb-ZhQc-5aW8-tbbOUqgZoMxv1teJ05FhEOs7KIfB4lsQy2aBoOZ8hHwwhW7-u5S79IS1OU4bM6G60ML",
       "banneradmob" : "ca-app-pub-3940256099942544/6300978111",
