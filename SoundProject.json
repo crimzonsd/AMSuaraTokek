@@ -6,7 +6,7 @@
     //mode 4 : unity
     //mode 5 : no ads
     {
-      "mode" : "5",
+      "mode" : "3",
       "apps" : "Rooster Sounds",      
       "sdk_key" : "8dT05HPb-ZhQc-5aW8-tbbOUqgZoMxv1teJ05FhEOs7KIfB4lsQy2aBoOZ8hHwwhW7-u5S79IS1OU4bM6G60ML",
       "banneradmob" : "ca-app-pub-3940256099942544/6300978111",
