@@ -11,8 +11,8 @@
       "sdk_key" : "8dT05HPb-ZhQc-5aW8-tbbOUqgZoMxv1teJ05FhEOs7KIfB4lsQy2aBoOZ8hHwwhW7-u5S79IS1OU4bM6G60ML",
       "banneradmob" : "ca-app-pub-3940256099942544/6300978111",
       "openadmob" : "ca-app-pub-3940256099942544/3419835294",
-      "bannerapplovin" : "",
-      "interapplovin" : "",
+      "bannerapplovin" : "2fee637b1845ce92",
+      "interapplovin" : "2917f35dacf7b9f4",
       "interUnity" : "Interstitial_Android",
       "bannerUnity" : "Banner_Android"   
     }
