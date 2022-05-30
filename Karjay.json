@@ -1,0 +1,13 @@
+[
+    {
+      "mode" : "1",
+      "apps" : "Gecko Sounds",
+      "sdk_key" : "",
+      "banneradmob" : "ca-app-pub-3940256099942544/6300978111",
+      "openadmob" : "ca-app-pub-3940256099942544/3419835294",
+      "bannerapplovin" : "",
+      "interapplovin" : "",
+      "interUnity" : "Interstitial_Android",
+      "bannerUnity" : "Banner_Android"
+    }
+]
