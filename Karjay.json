@@ -1,15 +1,17 @@
 [
     {
-      "mode" : "1",
+      "moreapp" : "true",
+      "mode" : "3",
       "apps" : "Gecko Sounds",
-      "sdk_key" : "",
       "appidadmob" : "ca-app-pub-1237974949249895~6319683885",
       "banneradmob" : "ca-app-pub-1237974949249895/7989092429",
+      "interadmob" : "ca-app-pub-1237974949249895/2353622364",  
       "openadmob" : "ca-app-pub-1237974949249895/4512063604",
-      "interadmob" : "ca-app-pub-1237974949249895/2353622364",
-      "bannerapplovin" : "",
-      "interapplovin" : "",
-      "interUnity" : "Interstitial_Android",
-      "bannerUnity" : "Banner_Android"
+      "sdkapp" : "8dT05HPb-ZhQc-5aW8-tbbOUqgZoMxv1teJ05FhEOs7KIfB4lsQy2aBoOZ8hHwwhW7-u5S79IS1OU4bM6G60ML",
+      "bannerapp" : "c590396c920064d6",
+      "interapp" : "e1ee48a0e9bf648d",  
+      "reward" : "7909b7affaaa0c89",
+      "rwdCount" : "5",
+      "limit" : "true"
     }
 ]
