@@ -1,7 +1,7 @@
 [
     {
       "moreapp" : "true",
-      "mode" : "3",
+      "mode" : "0",
       "apps" : "Gecko Sounds",
       "appidadmob" : "ca-app-pub-1237974949249895~6319683885",
       "banneradmob" : "ca-app-pub-1237974949249895/7989092429",
@@ -31,5 +31,20 @@
       "rwdCount" : "5",
       "startiotest" :"false",
       "limit" :"true"
+    },
+     {
+      "moreapp" : "true",
+      "mode" : "0",
+      "apps" : "Mosquito Sounds",
+      "appidadmob" : "ca-app-pub-1237974949249895~6265026768",
+      "banneradmob" : "ca-app-pub-1237974949249895/2325781757",
+      "interadmob" : "ca-app-pub-1237974949249895/8508046729",  
+      "openadmob" : "ca-app-pub-1237974949249895/9629556707",
+      "sdkapp" : "8dT05HPb-ZhQc-5aW8-tbbOUqgZoMxv1teJ05FhEOs7KIfB4lsQy2aBoOZ8hHwwhW7-u5S79IS1OU4bM6G60ML",
+      "bannerapp" : "2b32744e27688115",
+      "interapp" : "392001142d96c9eb",  
+      "reward" : "fb21763e5e193461",
+      "rwdCount" : "5",
+      "limit" : "true"
     }
 ]
