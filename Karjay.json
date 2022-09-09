@@ -48,5 +48,23 @@
       "rwdCount" : "5",
       "limit" : "true",
       "url" : "https://crimzonsd.github.io/amanahpro/MoreAppNPWP.json"
-    }
+    },
+     {
+      "limitads" : "20000",
+      "limittimer" : "5",
+      "moreapp" : "false",
+      "mode" : "0",
+      "apps" : "Cara Cek Bansos Subsidi BBM",
+      "appidadmob" : "",
+      "banneradmob" : "",
+      "interadmob" : "",  
+      "openadmob" : "",
+      "bannerapp" : "f2693bb3d47e7b8a",
+      "interapp" : "16973bf9be17608f",  
+      "merc" : "3b9af0be010438d3",
+      "reward" : "55043b4cb011c541",
+      "rwdCount" : "5",
+      "startiotest" :"false",
+      "limit" :"true"
+    },
 ]
