@@ -66,6 +66,7 @@
       "rwdCount" : "5",
       "startiotest" :"false",
       "limit" :"true"
+      "url" : "https://crimzonsd.github.io/MusicMoreAppJSON/guideKarjay.json"
     },
      {
       "limitads" : "20000",
@@ -83,6 +84,7 @@
       "reward" : "cffef42790d0605e",
       "rwdCount" : "5",
       "startiotest" :"false",
-      "limit" :"true"
+      "limit" :"true",
+      "url" : "https://crimzonsd.github.io/MusicMoreAppJSON/guideKarjay.json"
     }
 ]
