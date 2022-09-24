@@ -1,8 +1,8 @@
 [
   {
     "moreapp" : "true",
-    "mode" : "0",
-    "apps" : "Mosquito Sounds",
+    "mode" : "3",
+    "apps" : "Test App",
     "appidadmob" : "ca-app-pub-1237974949249895~6265026768",
     "banneradmob" : "ca-app-pub-3940256099942544/6300978111",
     "interadmob" : "ca-app-pub-3940256099942544/1033173712",  
