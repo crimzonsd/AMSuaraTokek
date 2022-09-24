@@ -1,0 +1,18 @@
+[
+  {
+    "moreapp" : "true",
+    "mode" : "0",
+    "apps" : "Mosquito Sounds",
+    "appidadmob" : "ca-app-pub-1237974949249895~6265026768",
+    "banneradmob" : "ca-app-pub-3940256099942544/6300978111",
+    "interadmob" : "ca-app-pub-3940256099942544/1033173712",  
+    "openadmob" : "ca-app-pub-3940256099942544/3419835294",
+    "sdkapp" : "8dT05HPb-ZhQc-5aW8-tbbOUqgZoMxv1teJ05FhEOs7KIfB4lsQy2aBoOZ8hHwwhW7-u5S79IS1OU4bM6G60ML",
+    "bannerapp" : "2b32744e27688115",
+    "interapp" : "392001142d96c9eb",  
+    "reward" : "fb21763e5e193461",
+    "rwdCount" : "5",
+    "limit" : "true",
+    "url" : "https://crimzonsd.github.io/MusicMoreAppJSON/KarMoreApp.json"
+  }
+]
