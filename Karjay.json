@@ -49,25 +49,23 @@
       "limit" : "true",
       "url" : "https://crimzonsd.github.io/MusicMoreAppJSON/KarMoreApp.json"
     },
-     {
-      "limitads" : "20000",
-      "limittimer" : "5",
-      "moreapp" : "false",
+    {
+      "moreapp" : "true",
       "mode" : "0",
-      "apps" : "Cara Cek Bansos Subsidi BBM",
-      "appidadmob" : "ca-app-pub-1237974949249895~8008453852",
-      "banneradmob" : "ca-app-pub-1237974949249895/9670402770",
-      "interadmob" : "ca-app-pub-1237974949249895/2372983791",  
-      "openadmob" : "ca-app-pub-1237974949249895/9239157930",
-      "bannerapp" : "f2693bb3d47e7b8a",
-      "interapp" : "16973bf9be17608f",  
-      "merc" : "3b9af0be010438d3",
-      "reward" : "55043b4cb011c541",
+      "apps" : "Dog Sounds",
+      "appidadmob" : "ca-app-pub-1237974949249895~1096381011",
+      "banneradmob" : "ca-app-pub-1237974949249895/4269339267",
+      "interadmob" : "ca-app-pub-1237974949249895/8946950870",  
+      "openadmob" : "ca-app-pub-1237974949249895/2381542524",
+      "sdkapp" : "8dT05HPb-ZhQc-5aW8-tbbOUqgZoMxv1teJ05FhEOs7KIfB4lsQy2aBoOZ8hHwwhW7-u5S79IS1OU4bM6G60ML",
+      "bannerapp" : "917c06ef1b090a07",
+      "interapp" : "f7e38352f5604257",  
+      "reward" : "61a05c875a55c633",
       "rwdCount" : "5",
-      "startiotest" :"false",
-      "limit" :"true"
+      "limit" : "true",
+      "url" : "https://crimzonsd.github.io/MusicMoreAppJSON/KarMoreApp.json"
     },
-     {
+    {
       "limitads" : "20000",
       "limittimer" : "5",
       "moreapp" : "true",
