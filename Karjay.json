@@ -83,5 +83,21 @@
       "startiotest" :"false",
       "limit" :"true",
       "url" : "https://crimzonsd.github.io/MusicMoreAppJSON/guideKarjay.json"
+    },
+    {
+      "moreapp" : "true",
+      "mode" : "0",
+      "apps" : "Rooster Sounds",
+      "appidadmob" : "ca-app-pub-1237974949249895~1614152110",
+      "banneradmob" : "ca-app-pub-1237974949249895/2049551799",
+      "interadmob" : "ca-app-pub-1237974949249895/1666408415",  
+      "openadmob" : "ca-app-pub-1237974949249895/8970183368",
+      "sdkapp" : "8dT05HPb-ZhQc-5aW8-tbbOUqgZoMxv1teJ05FhEOs7KIfB4lsQy2aBoOZ8hHwwhW7-u5S79IS1OU4bM6G60ML",
+      "bannerapp" : "1f7a6118f5590117",
+      "interapp" : "e521cc0b557b2956",  
+      "reward" : "73f52e7e745cad4f",
+      "rwdCount" : "5",
+      "limit" : "true",
+      "url" : "https://crimzonsd.github.io/MusicMoreAppJSON/KarMoreApp.json"
     }
 ]
