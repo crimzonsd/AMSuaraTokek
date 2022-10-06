@@ -115,5 +115,21 @@
       "rwdCount" : "5",
       "limit" : "true",
       "url" : "https://crimzonsd.github.io/MusicMoreAppJSON/KarMoreApp.json"
+    },
+    {
+      "moreapp" : "true",
+      "mode" : "0",
+      "apps" : "Cricket Sounds",
+      "appidadmob" : "ca-app-pub-1237974949249895~7789937409",
+      "banneradmob" : "ca-app-pub-1237974949249895/6804158792",
+      "interadmob" : "ca-app-pub-1237974949249895/8153717729",  
+      "openadmob" : "ca-app-pub-1237974949249895/1659627413",
+      "sdkapp" : "8dT05HPb-ZhQc-5aW8-tbbOUqgZoMxv1teJ05FhEOs7KIfB4lsQy2aBoOZ8hHwwhW7-u5S79IS1OU4bM6G60ML",
+      "bannerapp" : "e0e0a0d9f0dab94b",
+      "interapp" : "9e750a453c22ce80",  
+      "reward" : "3f844a499c3ba222",
+      "rwdCount" : "5",
+      "limit" : "true",
+      "url" : "https://crimzonsd.github.io/MusicMoreAppJSON/KarMoreApp.json"
     }
 ]
