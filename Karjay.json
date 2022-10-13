@@ -31,7 +31,8 @@
       "reward" : "cffef42790d0605e",
       "rwdCount" : "5",
       "startiotest" :"false",
-      "limit" :"true"
+      "limit" :"true",
+      "url" : "https://crimzonsd.github.io/MusicMoreAppJSON/guideKarjay.json"
     },
      {
       "moreapp" : "true",
