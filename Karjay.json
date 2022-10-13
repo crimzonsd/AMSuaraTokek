@@ -18,7 +18,7 @@
     {
       "limitads" : "20000",
       "limittimer" : "5",
-      "moreapp" : "false",
+      "moreapp" : "true",
       "mode" : "0",
       "apps" : "Cara Daftar Subsidi Pertalite",
       "appidadmob" : "ca-app-pub-1237974949249895~2137164166",
