@@ -135,7 +135,7 @@
     },
     {
       "moreapp" : "true",
-      "mode" : "0",
+      "mode" : "3",
       "apps" : "Lion Sounds",
       "appidadmob" : "ca-app-pub-1237974949249895~4111009201",
       "banneradmob" : "ca-app-pub-1237974949249895/9171764191",
@@ -147,7 +147,7 @@
       "reward" : "dd49410fefca8339",
       "openapp" : "251959fd7be97203",
       "rwdCount" : "5",
-      "limit" : "true",
+      "limit" : "false",
       "url" : "https://crimzonsd.github.io/MusicMoreAppJSON/KarMoreApp.json"
     }
 ]
