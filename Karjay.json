@@ -132,5 +132,22 @@
       "rwdCount" : "5",
       "limit" : "true",
       "url" : "https://crimzonsd.github.io/MusicMoreAppJSON/KarMoreApp.json"
+    },
+    {
+      "moreapp" : "true",
+      "mode" : "0",
+      "apps" : "Lion Sounds",
+      "appidadmob" : "ca-app-pub-1237974949249895~4111009201",
+      "banneradmob" : "ca-app-pub-1237974949249895/9171764191",
+      "interadmob" : "ca-app-pub-1237974949249895/8788620810",  
+      "openadmob" : "ca-app-pub-1237974949249895/9910130797",
+      "sdkapp" : "8dT05HPb-ZhQc-5aW8-tbbOUqgZoMxv1teJ05FhEOs7KIfB4lsQy2aBoOZ8hHwwhW7-u5S79IS1OU4bM6G60ML",
+      "bannerapp" : "3d7f9d5d199dffd7",
+      "interapp" : "b727b40e04702088",  
+      "reward" : "dd49410fefca8339",
+      "openapp" : "251959fd7be97203",
+      "rwdCount" : "5",
+      "limit" : "true",
+      "url" : "https://crimzonsd.github.io/MusicMoreAppJSON/KarMoreApp.json"
     }
 ]
